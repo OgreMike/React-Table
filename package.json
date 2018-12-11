@@ -1,7 +1,6 @@
 {
   "name": "workshop-for-novice-front",
   "version": "1.0.0",
-  "description": "fast start developing frontend applications with Webpack and React",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server",
@@ -13,9 +12,8 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kgaregin/workshop-for-novice-front/issues"
   },
-  "homepage": "https://github.com/kgaregin/workshop-for-novice-front#readme",
+
   "devDependencies": {
     "@babel/core": "^7.1.5",
     "@babel/preset-env": "^7.1.5",
